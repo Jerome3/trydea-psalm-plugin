@@ -1,5 +1,5 @@
 {
-    "name": "weirdan/psalm-plugin-skeleton",
+    "name": "Jerome3/trydea-psalm-plugin",
     "description": "Template to create psalm-plugin projects from",
     "type": "psalm-plugin",
     "license": "MIT",
