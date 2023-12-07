@@ -1,6 +1,6 @@
 <?php
 
-namespace Weirdan\PsalmPluginSkeleton;
+namespace Jerome3\TrydeaPsalmPlugin;
 
 use SimpleXMLElement;
 use Psalm\Plugin\PluginEntryPointInterface;
